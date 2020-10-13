@@ -1,6 +1,5 @@
 # Hoja-de-Vida-de-Yilbert-Villarreta
-<center><font size=5 color= Black>
-# Hoja-de-vida-de-Yilber-Villarreta</font></center><hr width ="" size="5">
+HOJA DE VIDA 
 
 <html>
 <head>
